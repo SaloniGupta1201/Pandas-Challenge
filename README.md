@@ -29,7 +29,7 @@ This notebook relies heavily on the summary statstical functions built into pand
 **************************************
 The result should look as follows.
 
-![Homework Image](./ExampleSolutionForReference.ipynb)
+![Homework Image](./HeroesOfPymoli/ExampleSolutionForReference.ipynb)
 
 ## Results <br/>
 Observations in Data <br/>
