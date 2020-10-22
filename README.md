@@ -28,7 +28,7 @@ This notebook relies heavily on the summary statstical functions built into pand
 
 **************************************
 The result looks as follows.
-HeroesOfPymoli/Resources/Images
+
 ![Homework Image](./HeroesOfPymoli/Resources/Images/Image1.PNG)
 ![Homework Image](./HeroesOfPymoli/Resources/Images/Image2.PNG)
 ![Homework Image](./HeroesOfPymoli/Resources/Images/Image3.PNG)
