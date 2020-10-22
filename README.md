@@ -48,7 +48,7 @@ The result looks as follows.
 ![Homework Image](./Images/Image17.PNG)
 ![Homework Image](./Images/Image18.PNG)
 
-## Results <br/>
+## Conclusions <br/>
 Observations in Data <br/>
 1) Of the 780 players list, there are 576 unique players, the vast majority are male (84%) and smaller proportion of female players (14%).
 2) Our peak age demographic falls between 20-24 (44.8%) with secondary groups falling between 15-19 (18.6%) and 25-29 (13%).
