@@ -1,7 +1,7 @@
 # Pandas-Challenge
 **Submitted By:** Saloni Gupta\
 _Date_: october, 22nd, 2020\
-Python Homework - **Pandas-HeroesOfPymoli** <br/>
+Pandas Homework - **HeroesOfPymoli** <br/>
 Heroes Of Pymoli Game Data Analysis using Pandas Library and Jupyter Notebook
 
 # Pymoli-Purchase-Analysis <br/>
@@ -28,8 +28,4 @@ This notebook relies heavily on the summary statstical functions built into pand
 
 ## Results <br/>
 Observations in Data <br/>
-The average item's purchase price was highest for other/nongender users. The average item's purchase price for men was greater than that for women.
 
-The largest portion of users were between the ages of 20-24. Over 40% of users fell in this age range.
-
-The most profitable items were bought fewer times for a greater cost than the most popular items.
