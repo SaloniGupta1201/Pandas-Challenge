@@ -26,6 +26,11 @@ Running the Code To run the notebook enter the following into the command line: 
 ## Methods <br/>
 This notebook relies heavily on the summary statstical functions built into pandas such as sum, mean, count, and nunique. It also utilizes pandas indexing,sorting and grouping functions such as loc, sort_values, and groupby.
 
+**************************************
+The result should look as follows.
+
+![Homework Image](./ExampleSolutionForReference.ipynb)
+
 ## Results <br/>
 Observations in Data <br/>
 1) Of the 780 players list, there are 576 unique players, the vast majority are male (84%) and smaller proportion of female players (14%).
