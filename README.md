@@ -30,7 +30,7 @@ This notebook relies heavily on the summary statstical functions built into pand
 Observations in Data <br/>
 1) Of the 780 players list, there are 576 unique players, the vast majority are male (84%) and smaller proportion of female players (14%).
 2) Our peak age demographic falls between 20-24 (44.8%) with secondary groups falling between 15-19 (18.6%) and 25-29 (13%).
-3) The majority of purchases are also done by the age group 20-24 with total purchase value of $1,114 although maximum purchase of 5 items is done by Lisosia93 who falls in age group 25-29.
-4) Out of 183 items on purchase list, the item  Final Critic is the most profitable as well as the most popular item with total purchase value $59.99 having sold max 13 items, followed by Oathbreaker, Last Hope of the Breaking Storm with total purchase value $50.76, selling 12 items.
-5) Since the participating players were predominantly male 484 compared to 81 females, the majority of purchases are done by Male with no significant difference in the total item purchased by male vs total item purchased by female.
+3) The majority of purchases were also done by the age group 20-24 with total purchase value of $1,114 although maximum purchase of 5 items is done by Lisosia93 who falls in age group 25-29.
+4) Out of 183 items on purchase list, the item 'Final Critic' is the most profitable as well as the most popular item with total purchase value $59.99 having sold max 13 items, followed by 'Oathbreaker, Last Hope of the Breaking Storm' with total purchase value $50.76, selling 12 items.
+5) Since the participating players were predominantly male 484 compared to 81 females, the majority of purchases were done by Male with no significant difference in the total item purchased by male vs total item purchased by female.
 
