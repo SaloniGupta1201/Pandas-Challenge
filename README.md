@@ -30,6 +30,23 @@ This notebook relies heavily on the summary statstical functions built into pand
 The result looks as follows.
 
 ![Homework Image](./Images/Image1.PNG)
+![Homework Image](./Images/Image2.PNG)
+![Homework Image](./Images/Image3.PNG)
+![Homework Image](./Images/Image4.PNG)
+![Homework Image](./Images/Image5.PNG)
+![Homework Image](./Images/Image6.PNG)
+![Homework Image](./Images/Image7.PNG)
+![Homework Image](./Images/Image8.PNG)
+![Homework Image](./Images/Image9.PNG)
+![Homework Image](./Images/Image10.PNG)
+![Homework Image](./Images/Image11.PNG)
+![Homework Image](./Images/Image12.PNG)
+![Homework Image](./Images/Image13.PNG)
+![Homework Image](./Images/Image14.PNG)
+![Homework Image](./Images/Image15.PNG)
+![Homework Image](./Images/Image16.PNG)
+![Homework Image](./Images/Image17.PNG)
+![Homework Image](./Images/Image18.PNG)
 
 ## Results <br/>
 Observations in Data <br/>
