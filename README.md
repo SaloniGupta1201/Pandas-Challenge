@@ -27,7 +27,7 @@ Running the Code To run the notebook enter the following into the command line: 
 This notebook relies heavily on the summary statstical functions built into pandas such as sum, mean, count, and nunique. It also utilizes pandas indexing,sorting and grouping functions such as loc, sort_values, and groupby.
 
 **************************************
-The result should look as follows.
+The result looks as follows.
 
 ![Homework Image](./Images/Image1.png)
 
