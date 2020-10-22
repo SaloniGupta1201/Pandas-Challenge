@@ -29,7 +29,7 @@ This notebook relies heavily on the summary statstical functions built into pand
 **************************************
 The result should look as follows.
 
-![Homework Image](./Resources/Image1.png)
+![Homework Image](./HeroesOfPymoli/Resources/Image1.png)
 
 ## Results <br/>
 Observations in Data <br/>
